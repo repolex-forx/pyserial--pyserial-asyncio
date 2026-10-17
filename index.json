@@ -1,0 +1,11 @@
+{
+  "org": "pyserial",
+  "repo": "pyserial-asyncio",
+  "versions": [
+    {
+      "commit": "13694c5a09188faf15f3ae08eae3772f3a707a68",
+      "tag": "",
+      "parsed_at": "2026-10-17T23:35:04.215758+00:00"
+    }
+  ]
+}
